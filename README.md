@@ -10,5 +10,5 @@ Convolutional Neural Network
 
 ## Acknowledments :
 Kay et al.’s 2017 paper, The Kinetics Human Action Video Dataset.
-Hara et al.’s 2018 CVPR paper, Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?
+Hara et al.’s 2018 CVPR paper, Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet
 OpenCV's Action Recognition Example
